@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Nbcsportsbayarea.com"
+            },
+            "author": "Tom Dierberger",
+            "title": "Report: Kings unwilling to include Murray in Beal trade offer - Yahoo Sports",
+            "description": "There was one line the Kings wouldn't cross in trade discussions for Wizards star Bradley Beal.",
+            "url": "https://www.nbcsportsbayarea.com/nba/sacramento-kings/kings-rumors/report-kings-unwilling-to-include-murray-in-beal-trade-offer/1634738/",
+            "urlToImage": "https://media.nbcsportsbayarea.com/2023/06/keegan-murray-bradley-beal-wizards-kings.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2023-06-20T00:46:00Z",
+            "content": "The Kings reportedly were in the mix to land Washington Wizards star guard Bradley Beal in a trade before the Phoenix Suns took a big swing Sunday night.\r\nThere was one line Sacramento wouldn't cross… [+1648 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "John Fanta",
+            "title": "2023 NBA Mock Draft 3.0: Who snags Scoot Henderson, Brandon Miller or Thompson twins? - FOX Sports",
+            "description": "Victor Wembanyama appears to be a lock at No. 1, but what will Charlotte do with the No. 2 selection? John Fanta offers up his 2023 NBA Mock Draft 3.0.",
+            "url": "https://www.foxsports.com/stories/nba/2023-nba-mock-draft-3-0-who-snags-scoot-henderson-brandon-miller-or-thompson-twins",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/06/1408/814/6.19.23_NBA-Mock-Draft-3.0_16x9-2.jpg?ve=1&tl=1",
+            "publishedAt": "2023-06-19T21:13:02Z",
+            "content": "While there is a sense of sadness with the NBA Finals being in the books and the four-month break from games beginning, theres a totally separate season during the summer.\r\nThe 2023 NBA Draft is upon… [+33184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Golf legend Tom Watson pens letter to PGA Tour as eight-time major winner questions deal with Saudi-backed PIF - CBS Sports",
+            "description": "Watson is one of many PGA Tour members past and present searching for answers amid the controversial agreement",
+            "url": "https://www.cbssports.com/golf/news/golf-legend-tom-watson-pens-letter-to-pga-tour-as-eight-time-major-winner-questions-deal-with-saudi-backed-pif/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/19/1427386d-a4a0-41d6-8a0c-837fac1e5a50/thumbnail/1200x675/25707c924c1defcdb2fe91290ee65397/tom-watson-2023-g.jpg",
+            "publishedAt": "2023-06-19T19:13:07Z",
+            "content": "Many prominent names in golf continue searching for details in regards to the PGA Tour's deal with the Saudi Arabian Public Investment Fund where commercial operations across the sport would be house… [+2844 chars]"
+        }
+    ]
+}
